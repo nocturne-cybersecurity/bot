@@ -1,4 +1,6 @@
+
 package models
+
 
 // ChatJoinRequest https://core.telegram.org/bots/api#chatjoinrequest
 type ChatJoinRequest struct {
